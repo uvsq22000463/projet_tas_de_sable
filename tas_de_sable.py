@@ -3,5 +3,6 @@
 # David DAULASIM
 # Adama KOUNDOUL
 # Rina Andrianina RASOLONJATOVO
-# https://github.com/uvsq-info/l1-python
+# Amélie COTTANCIN
+# https://github.com/uvsq22000463/projet_tas_de_sable
 #########################################
