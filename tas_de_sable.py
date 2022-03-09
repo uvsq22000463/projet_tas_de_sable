@@ -220,3 +220,4 @@ def plus() :
      canevas.create_rectangle((277,150),(350,200),fill="white")
 bouton4= tk.Button(racine,text="adi alea et centre",command=plus) 
 bouton4.grid(row=1,column=3)  
+racine.mainloop()
